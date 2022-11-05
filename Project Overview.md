@@ -1,5 +1,5 @@
-# Secret-Sharing-
-CS 492 Final Project
+# Secret-Sharing
+CS 492 Computer Security Final Project
 
 
 
