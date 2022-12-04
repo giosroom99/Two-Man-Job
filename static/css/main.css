@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+     font-family: 'Roboto', sans-serif;
+    background-image: url("https://tenor.com/view/nuclear-nuclearbomb-explosion-explode-gif-8095072");
+
+}
+
+.hack-text{
+    color: green;
+}
+
+
+button,a{
+    color:black
+} 
