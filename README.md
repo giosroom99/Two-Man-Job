@@ -1,7 +1,7 @@
 # Two-Man-Job
 
 ## Overview
-This repository contains the final project for CS 492, titled "Two-Man-Job." The project includes multiple HTML files and a Java component, focusing on a collaborative effort.
+This repository contains the final project for CS 492, titled "Two-Man-Job." When two keys are used to calculate a secret key with Shamir's Secret Sharing algorithm, a secret animation gets played.
 
 ## Structure
 - `static/`: Contains static files required for the project.
